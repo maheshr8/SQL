@@ -1,3 +1,3 @@
 # SQL
 
-Name - Mahesh
+Name - Mahesh Raut
