@@ -3,6 +3,7 @@
 Name - Mahesh Balasaheb Raut
 
 Basic SQL - PostgreSQL
+- Databases and Table Basics
 - SQL Statement Fundamentals
 - GROUP BY Statements
 - JOINS
